@@ -1,1 +1,38 @@
 /* write your override styles here */
+#wall .tag-1 {
+  width: 700px;
+  position: absolute;
+  height: 500px;
+  left: 100px;
+  top: 200px;
+}
+
+#wall #tag-3 {
+  width: 700px;
+  position: absolute;
+  height: 500px;
+}
+
+#wall #tag-2 {
+  width: 700px;
+  position: absolute;
+  height: 500px;
+  left: 100px;
+  top: 200px;
+}
+
+#wall #tag-4 {
+  width: 700px;
+  position: absolute;
+  height: 500px;
+  left: 100px;
+  top: 200px;
+}
+
+#wall #tag-5 {
+  width: 700px;
+  position: absolute;
+  height: 500px;
+  left: 100px;
+  top: 200px;
+}
